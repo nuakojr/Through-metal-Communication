@@ -9,8 +9,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 - **System design**
 
-![Block diagram](https://github.com/nuakojr/Through-metal-Communication/files/9584832/testbed.pdf)
-
+![Block diagram](https://github.com/nuakojr/Through-metal-Communication/files/9584833/system.pdf)
 
 
 ## Requirements
@@ -29,7 +28,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 - **Testbed setup**
 
-![Setup](https://github.com/nuakojr/Through-metal-Communication/blob/main/Images/testbed.pdf)
+![Setup](https://github.com/nuakojr/Through-metal-Communication/files/9584832/testbed.pdf)
 
 
 
