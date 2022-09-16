@@ -29,7 +29,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 - **Testbed setup**
 
-![Setup](testbed.pdf)
+![Setup](https://github.com/nuakojr/Through-metal-Communication/blob/main/Images/testbed.pdf)
 
 
 
