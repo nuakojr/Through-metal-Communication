@@ -9,7 +9,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 - **System design**
 
-![Block diagram](Images/system.pdf)
+![Block diagram](https://github.com/nuakojr/Through-metal-Communication/blob/f2df785a976f96d11bc49baa0978fe222461a5c8/Images/system.pdf)
 
 
 
