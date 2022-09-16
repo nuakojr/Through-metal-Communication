@@ -9,7 +9,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 - **System design**
 
-![Block diagram](Images/system.pdf)
+![Block diagram](system.pdf)
 
 
 
@@ -29,7 +29,7 @@ This repository is the official implementation of Through Metal Communication Pr
 
 - **Testbed setup**
 
-![Setup](Images/testbed.pdf)
+![Setup](testbed.pdf)
 
 
 
